@@ -4,7 +4,8 @@
 
 * **The Screenshot:**
 
-<img width="1408" height="745" alt="image" src="[https://github.com/user-attachments/assets/23d9f781-af83-4a09-a314-80ec4c7fd69d](https://github.com/user-attachments/assets/23d9f781-af83-4a09-a314-80ec4c7fd69d)" />
+<img width="1408" height="745" alt="image" src="https://github.com/user-attachments/assets/fba0927c-4ea7-4060-aa3a-931a8aca18f4" />
+
 
 ### 📋 Submission Details
 
