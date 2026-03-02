@@ -39,7 +39,3 @@ Use the following accounts to test role-based access control (RBAC) and protecte
 | **Forms** | 31/31 | Pre-populated Edit forms and robust validation. |
 | **Redux State** | 20/20 | Thunks for API calls and fully typed hooks. |
 | **Testing** | 20/20 | 25+ test cases with ~70% total coverage. |
-
----
-
-Would you like me to help you draft a specific "How to Run" section for the README as well?
