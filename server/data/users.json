@@ -1,0 +1,34 @@
+[
+  {
+    "id": 17417904740,
+    "name": "Admin",
+    "email": "admin@email.com",
+    "password": "Admin123",
+    "role": "admin",
+    "token": "17417904740_Admin"
+  },
+  {
+    "id": 174179047402,
+    "name": "User",
+    "email": "user@email.com",
+    "password": "User123",
+    "role": "user",
+    "token": "174179047402_User"
+  },
+  {
+    "name": "johndoe",
+    "email": "johndoe@example.com",
+    "password": "password123",
+    "id": 1772221345616,
+    "role": "user",
+    "token": "1772221345616_johndoe"
+  },
+  {
+    "name": "Sona",
+    "email": "sona_admin@email.com",
+    "password": "password123",
+    "id": 1772282088836,
+    "role": "admin",
+    "token": "1772282088836_Sona Admin"
+  }
+]
