@@ -39,3 +39,8 @@ Use the following accounts to test role-based access control (RBAC) and protecte
 | **Forms** | 31/31 | Pre-populated Edit forms and robust validation. |
 | **Redux State** | 20/20 | Thunks for API calls and fully typed hooks. |
 | **Testing** | 20/20 | 25+ test cases with ~70% total coverage. |
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/693678f3-4ece-41e3-90c3-d3abe4f411ff" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a2027c4e-5fc0-4242-b309-d4c875d9f252" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/40738640-ca96-4559-a33c-3688e9fc2c61" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e5466727-7c95-47bf-8ee9-3a96fd031b39" />
